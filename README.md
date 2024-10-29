@@ -3,14 +3,21 @@
 </div>
 <img src="Capibara World.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCAQwPgQXEnyEzjHpPEtdLYA?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCAQwPgQXEnyEzjHpPEtdLYA?style=social)](https://www.youtube.com/@MoiiProg?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/MoiiNnz?style=social)](https://github.com/MoiiNnz)
+[![Static Badge](https://img.shields.io/badge/Instagram-DF34EC)](https://www.instagram.com/moimoiprog/)
+
 
 ## Sobre mi
 
 - ⭐ Programador aprendiz ⭐ 
 - 🙋 Acompañame a aprender mas sobre programacion
 - 📓 Si, esta pagina es una tarea 
+- Git
+- GitHub
+- Java
+- C++
+
 <br>
 
 ## Proyectos del youtuber "AristiDevs"
