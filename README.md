@@ -1,7 +1,7 @@
 <div align="center">
 
 </div>
-<img src="Captura de pantalla (353).png">
+<img src="capibara.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCAQwPgQXEnyEzjHpPEtdLYA?style=social)](https://www.youtube.com/@MoiiProg?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/MoiiNnz?style=social)](https://github.com/MoiiNnz)
