@@ -10,9 +10,10 @@
 
 ## Sobre mi
 
-- ⭐ Programador aprendiz ⭐ 
+- ⭐ Programador ⭐ 
 - 🙋 Acompañame a aprender mas sobre programacion
 - 📓 Si, esta pagina es una tarea 
+Programador experimentado en:
 - Git
 - GitHub
 - Java
