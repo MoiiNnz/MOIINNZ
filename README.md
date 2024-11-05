@@ -12,7 +12,7 @@
 
 - ⭐ Programador ⭐ 
 - 🙋 Acompañame a aprender mas sobre programacion
-- 📓 Si, esta pagina es una tarea 
+- 📓 Si, esta pagina es una tarea<br>
 Programador experimentado en:
 - Git
 - GitHub
